@@ -1,0 +1,15 @@
+{
+    "name": "omnishow/youtube",
+    "description": "Reserved, not released yet: YouTube for glitchr/omnishow, the family for video sources hosted elsewhere.",
+    "type": "library",
+    "license": "LGPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Marco Meyer",
+            "email": "marco.meyer@glitchr.io"
+        }
+    ],
+    "require": {
+        "php": ">=8.2"
+    }
+}
